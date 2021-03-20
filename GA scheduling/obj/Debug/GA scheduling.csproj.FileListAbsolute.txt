@@ -1,0 +1,8 @@
+C:\Users\MAPK\Downloads\Уеба\!Маг\GA scheduling\GA scheduling\obj\Debug\GA scheduling.csprojResolveAssemblyReference.cache
+C:\Users\MAPK\Downloads\Уеба\!Маг\GA scheduling\GA scheduling\obj\Debug\GA_scheduling.MainForm.resources
+C:\Users\MAPK\Downloads\Уеба\!Маг\GA scheduling\GA scheduling\obj\Debug\GA scheduling.csproj.GenerateResource.Cache
+C:\Users\MAPK\Downloads\Уеба\!Маг\GA scheduling\GA scheduling\bin\Debug\GA scheduling.exe.config
+C:\Users\MAPK\Downloads\Уеба\!Маг\GA scheduling\GA scheduling\bin\Debug\GA scheduling.exe
+C:\Users\MAPK\Downloads\Уеба\!Маг\GA scheduling\GA scheduling\bin\Debug\GA scheduling.pdb
+C:\Users\MAPK\Downloads\Уеба\!Маг\GA scheduling\GA scheduling\obj\Debug\GA scheduling.exe
+C:\Users\MAPK\Downloads\Уеба\!Маг\GA scheduling\GA scheduling\obj\Debug\GA scheduling.pdb

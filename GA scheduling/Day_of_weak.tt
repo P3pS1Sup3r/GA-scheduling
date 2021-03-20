@@ -1,0 +1,11 @@
+﻿<#@ template language="C#" #>
+
+<#@ output extension=".txt" #>
+
+ Friday - Пятница 
+ Monday - Понедельник
+ Saturday - Суббота
+ Sunday - Воскресенье
+ Thursday - Четверг
+ Tuesday - Вторник
+ Wednesday - Среда
